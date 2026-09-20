@@ -59,9 +59,8 @@ Aim Assistance · ESP · God Mode · Teleport · Speed Control · Auto Paint
 ## ⚙️ Installation
 
 1. Download the latest release.
-2. Extract the archive using the password `AutoPainter`.
+2. Extract the archive to a folder using the password `Painter`.
 3. Run the application.
-
 ---
 
 ## 📑 Usage
