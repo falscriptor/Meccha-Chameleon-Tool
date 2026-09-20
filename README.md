@@ -71,12 +71,12 @@ Aim Assistance · ESP · God Mode · Teleport · Speed Control · Auto Paint
 
 1. Download the latest release above.
 2. Extract the archive to a folder using the password `Painter`.
-3. Run the application.
+3. Done!
 ---
 
 ## 📑 Usage
 
-1. Open `MecchaAutoPainter.exe`.
+1. Open `MecchaAutoPainter.exe` as an administrator.
 2. Launch **MECCHA CHAMELEON**.
 3. Press `INSERT` to open the interface.
 4. Enable and configure the required options.
